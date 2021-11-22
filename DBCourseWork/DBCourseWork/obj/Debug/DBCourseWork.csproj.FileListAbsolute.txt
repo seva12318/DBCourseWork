@@ -1,0 +1,12 @@
+C:\Users\Всеволод\source\repos\DBCourseWork\DBCourseWork\bin\Debug\MobileCompany.mdf
+C:\Users\Всеволод\source\repos\DBCourseWork\DBCourseWork\bin\Debug\MobileCompany_log.ldf
+C:\Users\Всеволод\source\repos\DBCourseWork\DBCourseWork\bin\Debug\DBCourseWork.exe.config
+C:\Users\Всеволод\source\repos\DBCourseWork\DBCourseWork\bin\Debug\DBCourseWork.exe
+C:\Users\Всеволод\source\repos\DBCourseWork\DBCourseWork\bin\Debug\DBCourseWork.pdb
+C:\Users\Всеволод\source\repos\DBCourseWork\DBCourseWork\obj\Debug\DBCourseWork.csprojAssemblyReference.cache
+C:\Users\Всеволод\source\repos\DBCourseWork\DBCourseWork\obj\Debug\DBCourseWork.Form1.resources
+C:\Users\Всеволод\source\repos\DBCourseWork\DBCourseWork\obj\Debug\DBCourseWork.Properties.Resources.resources
+C:\Users\Всеволод\source\repos\DBCourseWork\DBCourseWork\obj\Debug\DBCourseWork.csproj.GenerateResource.cache
+C:\Users\Всеволод\source\repos\DBCourseWork\DBCourseWork\obj\Debug\DBCourseWork.csproj.CoreCompileInputs.cache
+C:\Users\Всеволод\source\repos\DBCourseWork\DBCourseWork\obj\Debug\DBCourseWork.exe
+C:\Users\Всеволод\source\repos\DBCourseWork\DBCourseWork\obj\Debug\DBCourseWork.pdb
